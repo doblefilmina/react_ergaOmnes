@@ -1,0 +1,73 @@
+[
+  {
+    "id": 0,
+    "Name": "Julio Toloza",
+    "Speciality": "Editor",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3 
+  },
+
+  {
+    "id": 0,
+    "Name": "Julio Toloza",
+    "Speciality": "Editor",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3
+  },
+
+  {
+    "id": 0,
+    "Name": "Julio Toloza",
+    "Speciality": "Editor",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3
+  },
+
+  {
+    "id": 0,
+    "Name": "Julio Toloza",
+    "Speciality": "Editor",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3
+  },
+
+  {
+    "id": 0,
+    "Name": "Ricardo Valente",
+    "Speciality": "Abogado Comercial",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3
+  },
+
+  {
+    "id": 0,
+    "Name": "Julio Toloza",
+    "Speciality": "Editor",
+    "imgUrl": "./img/avatar-placeholder.jpg",
+    "articleid" : "0" ,
+    "articletext" :"Mi mama me ama",
+    "articledate" : "19/8/20 17:41",
+    "articlesignatures": 7,
+    "articlescomments": 3
+  }
+]
